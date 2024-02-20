@@ -1,0 +1,1 @@
+create table <RDS-Table-Name> (Data_A varchar(20), Data_B varchar(20), PII_Data bytea);
