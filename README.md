@@ -1,0 +1,1 @@
+This pattern demonstrates the procedure we can follow to encrypt Personally Identifiable Information(PII) in AWS S3 data lake column using AWS KMS key from an AWS Glue PySpark job before syncing the data into AWS RDS database and decrypting it using the same AWS KMS key while consuming from another AWS Glue PySpark job.
